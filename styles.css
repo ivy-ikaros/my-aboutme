@@ -1,0 +1,46 @@
+body {
+   display: flex;
+   flex-direction: column !important;
+}
+
+.intro, h1 {
+   display: flex;
+   flex-direction: row;
+}
+
+.intro, h2 {
+   display: flex;
+   flex-direction: row;
+}
+
+.ul0 {
+   display: flex;
+   flex-direction: row;
+}
+
+.connect {
+   display: flex;
+   flex-direction: row;
+}
+
+.iglink-img {
+   display: flex;
+   flex-direction: row;
+   width: 30%;
+   border-radius: 50px;
+   border: 4px solid #48d2eb;
+}
+
+.newsletter, input {
+   width: 15%;
+}
+
+.newsletter, button {
+   display: flex;
+   color: #0f1419;
+   font-weight: bold;
+   padding: 8px 15px 8px 15px;
+   border-radius: 20px;
+   border: 1px solid #cfd9de;
+   background-color: #ffffff;
+}
